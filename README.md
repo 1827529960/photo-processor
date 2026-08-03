@@ -104,7 +104,7 @@ pyinstaller --onefile --windowed --name "证件照处理工具" photo_processor.
 
 ## 许可证
 
-MIT License
+Apache-2.0 license
 
 ## 作者
 
